@@ -1,0 +1,3 @@
+rootProject.name = 'timemanagr'
+
+include ':app'
